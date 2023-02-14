@@ -1,4 +1,14 @@
-### Hi there 👋
+                                                      Hey everyone! 👋 I'm Cliff!
+These are the projects I have and/or currently working on.<br>
+I do plan on adding more personal projects so be on the look out!
+
+Links:<br>
+[![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][1]
+
+Looking to Hire Me?<br>
+[Email](cliff.reinoso98@yahoo.com)
+
+[1]: https://www.linkedin.com/in/cliff-reinoso-2249b7171/
 
 <!--
 **CliffRR/CliffRR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
